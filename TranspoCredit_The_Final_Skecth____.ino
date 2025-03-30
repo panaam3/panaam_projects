@@ -1,4 +1,5 @@
-
+// transpoCredit final Skecth
+// @author: Phiwumusa Ngidi
 int balance;
 int deposit;
 int fee;
